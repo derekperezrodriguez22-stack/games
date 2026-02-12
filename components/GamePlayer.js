@@ -1,0 +1,1 @@
+// This file is unused. The GamePlayer component is defined in components/GamePlayer.tsx.

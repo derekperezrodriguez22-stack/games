@@ -1,0 +1,1 @@
+// This file is unused. The App component is defined in App.tsx.

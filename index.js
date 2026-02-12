@@ -1,0 +1,1 @@
+// This file is unused. The application entry point is index.tsx.

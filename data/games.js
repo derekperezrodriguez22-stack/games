@@ -1,0 +1,1 @@
+// This file is unused. Game data is stored in data/games.ts.

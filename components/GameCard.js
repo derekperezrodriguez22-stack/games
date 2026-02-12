@@ -1,0 +1,1 @@
+// This file is unused. The GameCard component is defined in components/GameCard.tsx.

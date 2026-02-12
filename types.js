@@ -1,0 +1,1 @@
+// This file is unused. Types and constants are defined in types.ts.
